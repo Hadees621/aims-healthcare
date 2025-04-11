@@ -12,3 +12,8 @@
    ```bash
    git clone https://github.com/your-repo/aims-landing.git
    cd aims-landing
+
+Run:
+
+1- composer install
+2- php artisan serve
